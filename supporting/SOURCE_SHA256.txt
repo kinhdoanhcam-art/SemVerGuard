@@ -1,0 +1,10 @@
+bcb38cc46512ead09f762368070f7c2389c1f80aa8dfb4b74549f3a9e56996ad  SemVerGuard.py
+
+Computed from the LF source bytes frozen for SemVerGuard v1.1.
+RPC raw deployed-source SHA-256:
+1b290fd96ad74859d815a21774d732b47621b523c1394ae37b0d722ab2305d27
+
+RPC deployed-source SHA-256 after CRLF-to-LF normalization:
+bcb38cc46512ead09f762368070f7c2389c1f80aa8dfb4b74549f3a9e56996ad
+
+Deployed-source parity: PASS. The only normalization applied was CRLF to LF.
